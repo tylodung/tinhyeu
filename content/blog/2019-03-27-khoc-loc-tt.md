@@ -2,10 +2,7 @@
 published: true
 hidden: false
 title: Chẳng lo phải khóc lóc đau khổ nữa bởi đã có thuốc chữa bệnh THẤT TÌNH rồi
-tags: styling react styled-components
-twitter_large: true
-image: that-tinh.jpg
-custom_excerpt: Tình yêu cũng là một bệnh “nghiện” và hoàn toàn có thể chữa trị nó bằng thuốc như chữa trị một căn bệnh thông thường trên cơ thể con người.
+author: [doanbinh]
 
 ---
 

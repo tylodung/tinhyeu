@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Ngôi Chùa Techhome
+            Tận Đáy Lòng
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Ngôi Chùa Xưa nên tới và lễ viếng"
+            title="Tình Cảm và Kỷ Niệm"
             to="/blog/"
           />
         </nav>
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://heatlyt.site/"
+            href="https://marstacaca.site/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

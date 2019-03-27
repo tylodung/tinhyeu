@@ -2,10 +2,7 @@
 published: true
 hidden: false
 title: Người ấy có yêu bạn hay không, hãy tinh mắt nhìn qua điểm này
-tags: styling react styled-components
-twitter_large: true
-image: 2311.jpg
-custom_excerpt: Tinh yêu là thứ tình cảm xuất phát từ hai phía, nếu một trong hai người có sự giả dối không sớm thì muộn có ngày tình cảm sẽ đổ vỡ ngay. Có những người bắt đầu yêu nhưng khi yêu lại không yêu hết mình.
+author: [doanbinh]
 
 ---
 

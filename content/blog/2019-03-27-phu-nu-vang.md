@@ -2,10 +2,7 @@
 published: true
 hidden: false
 title: Người phụ nữ có dấu hiệu vàng này hãy cưới ngay kẻo lỡ
-tags: styling react styled-components
-twitter_large: true
-image: anh-ay.jpg
-custom_excerpt: Nếu gặp một cô gái hội tụ đa phần những tiêu chuẩn dưới đây thì hãy cưới cô ấy ngay nhé!.
+author: [doanbinh]
 
 ---
 

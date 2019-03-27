@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Đoàn Bình & Ngôi Chùa Xưa';
+    const title = 'Đoàn Bình & Tận Đáy Lòng';
 
     return (
       <div css={{width: '100%'}}>
@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Những ngôi chùa đẹp và nổi tiếng
+                Tấm Lòng Son
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Chùa Xưa cổ Kính Việt Nam...
+                Hỡi Thế Gian... Tình Là Chi
               </p>
               <Flex
                 valign="center"
@@ -132,7 +132,7 @@ class Home extends Component {
                 </CtaItem>
                 <CtaItem>
                   <ButtonLink to="/blog/" type="secondary">
-                    Xem Các Ngôi Chùa Xưa
+                    Xem thêm...
                   </ButtonLink>
                 </CtaItem>
               </Flex>
@@ -163,7 +163,7 @@ class Home extends Component {
               </CtaItem>
               <CtaItem>
                 <ButtonLink to="/blog/" type="secondary">
-                  Xem Các Ngôi Chùa Xưa
+                  Xem thêm...
                 </ButtonLink>
               </CtaItem>
             </Flex>

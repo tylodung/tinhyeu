@@ -2,10 +2,7 @@
 published: true
 hidden: false
 title: Giận đến mấy vợ cũng không được nói điều này nếu không muốn mất chồng
-tags: styling react styled-components
-twitter_large: true
-image: vo-chong.jpg
-custom_excerpt: Nhiều người phụ nữ không tin rằng người đàn ông của mình vốn rất yêu thương vợ, rất giỏi bỏ qua những lỗi lầm của vợ nhưng chỉ vì một câu nói chạm đúng vào “huyệt” tự ái mà có thể tung hê…
+author: [doanbinh]
 
 ---
 
