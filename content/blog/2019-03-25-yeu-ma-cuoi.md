@@ -1,11 +1,8 @@
 ---
 published: true
 hidden: false
-title: Hãy VÌ YÊU MÀ CƯỚI, đừng kết hôn chỉ vì gia đình hay tuổi tác, đến với nhau khi trái tim thấy cần
-tags: styling react styled-components
-twitter_large: true
-image: ket-hon.jpg
-custom_excerpt: Tình yêu nên đến từ hai phía, chỉ có từ hai phía thì tình yêu mới thật sự là tình yêu.
+title: Hãy Vì Yêu Mà Cưới, đến với nhau khi trái tim thấy cần
+author: [doanbinh]
 ---
 
 Tình yêu cần có sự vun đắp từ cả hai phía, nếu chỉ có một người tự thân vận động thì mối quan hệ ấy cũng sẽ kết thúc thôi nhưng đợi đến lúc đấy thì có lẽ cả hai cũng đã mệt mỏi tới điên đầu lên rồi. 
