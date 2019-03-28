@@ -2,11 +2,9 @@
 published: true
 hidden: false
 title: Đàn bà khôn và 9 vũ khí mê hoặc khiến chồng yêu đến mê mẩn
-tags: styling react styled-components
-twitter_large: true
-image: dan-ba-khon.jpg
-custom_excerpt: Đàn bà muốn giữ đàn ông không chỉ hơn thua nhau ở nhan sắc mà còn là khôn ngoan biết đâu là vũ khí khiến chồng yêu đến mê mẩn một đời…
+author: [doanbinh] 
 ---
+Đàn bà muốn giữ đàn ông không chỉ hơn thua nhau ở nhan sắc mà còn là khôn ngoan biết đâu là vũ khí khiến chồng yêu đến mê mẩn một đời…
 
 Nhân hậu
 

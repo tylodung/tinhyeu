@@ -2,10 +2,7 @@
 published: true
 hidden: false
 title: Tại sao dù có vợ đẹp con ngoan đàn ông vẫn ngoại tình
-tags: styling react styled-components
-twitter_large: true
-image: tai-sao.jpg
-custom_excerpt: Người đàn ông sẽ không cân nhắc xem vợ mình hay cô gái sắp trở thành bồ ai hơn ai. Anh ta cần “đổi gió″ và có người đáp ứng, vậy là đủ.
+author: [doanbinh]
 
 ---
 

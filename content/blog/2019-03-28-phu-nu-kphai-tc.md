@@ -2,11 +2,9 @@
 published: true
 hidden: false
 title: Phụ nữ không phải là tất cả, nhưng lại khiến đàn ông từ bỏ tất cả nếu có điều này
-tags: styling react styled-components
-twitter_large: true
-image: phu-nu-khong.jpg
-custom_excerpt: Một người phụ nữ tuyệt vời luôn khiến các đấng mày râu tình nguyện hi sinh tất cả để dành trọn tình yêu cho họ…
+author: [doanbinh] 
 ---
+Một người phụ nữ tuyệt vời luôn khiến các đấng mày râu tình nguyện hi sinh tất cả để dành trọn tình yêu cho họ…
 
 Nhân hậu
 

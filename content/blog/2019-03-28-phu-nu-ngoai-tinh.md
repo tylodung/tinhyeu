@@ -2,10 +2,7 @@
 published: true
 hidden: false
 title: Khi ngoại tình, phụ nữ thực sự còn đáng sợ hơn đàn ông
-tags: styling react styled-components
-twitter_large: true
-image: khi-ngoai-tinh.jpg
-custom_excerpt: Người ta thường nói trong tình yêu, đàn ông và đàn bà là hai sự khác biệt về ngoại tình.
+author: [doanbinh]
 ---
 
 Nếu người đàn ông có thể lên giường với cả những phụ nữ họ không có tình cảm. Thì đàn bà chỉ ngủ với người mà họ yêu. Đàn ông ngoại tình rồi sẽ trở về với vợ con.
