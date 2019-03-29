@@ -2,13 +2,11 @@
 published: true
 hidden: false
 title: Bạn sẽ giết chết tình yêu của mình nếu phạm phải những điều sau
-tags: styling react styled-components
-twitter_large: true
-image: sai-lam.jpg
-custom_excerpt: Tại sao tình yêu sớm đến nhưng cũng mau chóng qua đi… Nhưng ít ai chịu tìm hiểu nguyên nhân của nó. Nếu bạn biết được nguyên nhân của nó, bạn có thể điều chỉnh để giúp cho tình cảm của hai người tốt đẹp hơn.
-
+author: [doanbinh] 
 
 ---
+Tại sao tình yêu sớm đến nhưng cũng mau chóng qua đi… Nhưng ít ai chịu tìm hiểu nguyên nhân của nó. Nếu bạn biết được nguyên nhân của nó, bạn có thể điều chỉnh để giúp cho tình cảm của hai người tốt đẹp hơn.
+
 
 **1. Thiếu tôn trọng và vị tha**
 

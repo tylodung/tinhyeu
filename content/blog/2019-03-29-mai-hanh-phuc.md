@@ -2,12 +2,10 @@
 published: true
 hidden: false
 title: Làm ngay điều này đầu năm để vợ chồng mãi mãi hạnh phúc
-tags: styling react styled-components
-twitter_large: true
-image: nguoi-tinh.jpg
-custom_excerpt: Dưới đây là những điều vợ chồng nên làm ngay ngày đầu năm để cả năm hạnh phúc, tình cảm vợ chồng thăng hoa.
+author: [doanbinh] 
 
 ---
+Dưới đây là những điều vợ chồng nên làm ngay ngày đầu năm để cả năm hạnh phúc, tình cảm vợ chồng thăng hoa.
 
 **Nói những điều tích cực**
 
