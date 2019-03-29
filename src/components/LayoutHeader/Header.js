@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://marstacaca.site/"
+            href="https://lovelili.info/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
