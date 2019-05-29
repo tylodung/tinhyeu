@@ -22,8 +22,8 @@ Cuộc sống của người phụ nữ luôn vướng vào bi kịch khi không
 
 Quá khứ là những gì đã qua rồi. Tương lai là điều chưa đến. chưa biết nó sẽ như nào. Còn hiện tại chính là tất cả. Như thế này là đủ rồi. Sinh ra là con gái, là đã biết phải khổ. Nhưng sướng hay khổ, một phần cũng do bản thân mình.
 
-Là phụ nữ, bạn có quyền được mắc sai lầm, được cảm thấy bản thân mình yếu đuối và luôn cần một bờ vai để nương tựa, nhưng trên tất cả, phụ nữ luôn luôn đòi hỏi sự công bằng với nam giới. Đó chính là mâu thuẫn của những người phụ nữ thiếu sáng suốt, bởi người phụ nữ sáng suốt luôn công bằng với chính mình,
+Là phụ nữ, bạn có quyền được mắc sai lầm, được cảm thấy bản thân mình yếu đuối và luôn cần một bờ vai để nương tựa, nhưng trên tất cả, phụ nữ luôn luôn đòi hỏi sự công bằng với nam giới. Đó chính là mâu thuẫn của những người phụ nữ thiếu sáng suốt, bởi người phụ nữ sáng suốt luôn công bằng với chính mình.
 
 Là phụ nữ, có thể có con hoặc không có con. Độc thân hay kết hôn, sống theo đám đông hay sống cho chính bạn, nhưng điều quan trọng nhất của người phụ nữ luôn là sự độc lập trong hành vi, tự chủ trong cuộc sống và dám làm dám chịu.
 
-Mọi thứ rồi cũng sẽ qua. Nhưng cái chính là phụ nữ có muốn nó qua hay không? Rồi nhiều lúc phải học cách nói những câu đau lòng… Vì cuộc sốngkhông chỉ toàn màu hồng, còn cuộc đời thì Bạc lắm.
+Mọi thứ rồi cũng sẽ qua. Nhưng cái chính là phụ nữ có muốn nó qua hay không? Rồi nhiều lúc phải học cách nói những câu đau lòng… Vì cuộc sống không chỉ toàn màu hồng, còn cuộc đời thì Bạc lắm.
