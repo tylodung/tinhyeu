@@ -14,13 +14,13 @@ Họ nghĩ rằng, có tiền sẽ khiến họ vui vẻ, không có tiền lạ
 
 Nhưng thực ra những người phụ nữ đó lại không được coi trọng và đánh giá cao. Tiền thì quan trọng thật đấy, nhưng đánh đổi tất cả để có được nó thì không nên chút nào.
 
-Phụ nữ thì lợi dụng được gì ở đàn ông?
+**Phụ nữ thì lợi dụng được gì ở đàn ông?**
 
 Đó có lẽ là những bữa ăn được đàn ông trả tiền, những chuyến du lịch được đàn ông bao lo. Nếu phụ nữ cặp kè với đàn ông ngoại quốc, lại có ảnh để khoe mọi người họ có bạn trai Tây, được đi đây đi đó mở mang nhiều kiến thức.
 
 Cô nào xinh đẹp tuyệt trần còn có thể cua được đại gia, ăn sung mặc sướng thật không kể hết, lại còn được cấp vốn kinh doanh buôn bán kiếm tiền.
 
-Hãy là một người phụ nữ có lòng tự trọng trong tình yêu.
+**Hãy là một người phụ nữ có lòng tự trọng trong tình yêu.**
 
 Ngày nay, nam nữ bình quyền, việc gì nam giới làm được phụ nữ đều có thể làm được. Có thể người phụ nữ không kiếm tiền nhiều bằng đàn ông, nhưng phụ nữ cũng tự biết kiếm tiền nuôi sống bản thân.
 

@@ -5,7 +5,9 @@ title: Phụ nữ độc lập và biết kiếm tiền nhất định sẽ có 
 author: [doanbinh]
 
 ---
-Phụ nữ độc lập là phải biết kiếm tiền – vừa để thoả mãn lòng tự trọng tối thiểu của bản thân, vừa để chia sẻ gánh nặng kinh tế với người đàn ông bên cạnh mình.Nhưng biết kiếm tiền không phải là sống chết vì nó. Một vài phụ nữ luôn coi tiền là tất cả, là chân lý của cuộc đời. Có tiền sẽ khiến họ vui vẻ, không có tiền lại khiến họ trút giận lên người khác. Họ làm mọi cách để kiếm tiền, và coi đó là thước đo của một cuộc sống hạnh phúc. Nhưng thực ra những người phụ nữ đó lại không được coi trọng và đánh giá cao. Tiền thì quan trọng thật đấy, nhưng đánh đổi tất cả để có được nó thì không nên chút nào.
+Phụ nữ độc lập là phải biết kiếm tiền – vừa để thoả mãn lòng tự trọng tối thiểu của bản thân, vừa để chia sẻ gánh nặng kinh tế với người đàn ông bên cạnh mình.
+
+Nhưng biết kiếm tiền không phải là sống chết vì nó. Một vài phụ nữ luôn coi tiền là tất cả, là chân lý của cuộc đời. Có tiền sẽ khiến họ vui vẻ, không có tiền lại khiến họ trút giận lên người khác. Họ làm mọi cách để kiếm tiền, và coi đó là thước đo của một cuộc sống hạnh phúc. Nhưng thực ra những người phụ nữ đó lại không được coi trọng và đánh giá cao. Tiền thì quan trọng thật đấy, nhưng đánh đổi tất cả để có được nó thì không nên chút nào.
 
 Một dạng phụ nữ khác mà tôi đang đề cập đến đây, là người phụ nữ độc lập, tự chủ về tài chính của mình. Phụ nữ có thể làm một công việc không có thu nhập quá cao, nhưng phải ổn định và đủ nuôi thân để không bị phụ thuộc vào ai. Đừng cầm tiền của đàn ông mà tiêu xài như thể đó là tiền do mình làm ra. Người ta cho bạn 1, thì bạn nên biết ơn và tìm cách trả lại cho họ hơn thế. Một mối quan hệ có sự chia sẻ, bình đẳng về tiền bạc thì mới có thể kéo dài và lâu bền.
 
