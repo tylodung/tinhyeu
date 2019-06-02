@@ -10,7 +10,7 @@ Có những người từ khi mới bắt đầu đã là sự giả dối rồi
 
 Sau đây là những dấu hiệu cho thấy người ấy đang lừa dối bạn!
 
-Họ bắt đầu giữ bí mật
+**Họ bắt đầu giữ bí mật**
 
 Ai cũng có ít hay nhiều bí mật, nhất là trong tình yêu, chuyện tâm sự, chia sẻ cho nhau những điều thầm kín là biểu hiện cho thấy bạn và người ấy thực sự chung thủy với nhau.
 
@@ -18,21 +18,21 @@ Nếu đối phương bắt đầu che giấu mọi chuyện và không còn chi
 
 Nếu bạn phát hiện ra một chuyện gì đó và hỏi họ nhưng họ lại chối bay biến thì nhất định phía sau đó là một lời nói dối to đùng.
 
-Khen bạn nhiều hơn (thậm chí có lời khen vô lí)
+**Khen bạn nhiều hơn (thậm chí có lời khen vô lí)**
 
 Chẳng hạn, vẫn là chiếc váy mọi khi bạn mặc anh ấy cảm thấy chẳng được chút nào, nhưng giờ đây anh ấy lại liên tục đưa ra lời khen ngợi. Những lúc này thì không còn nghi ngờ gì nữa, anh ta đang dần thay đổi và cảm thấy có lỗi khi lừa dối bạn nên mới đưa ra lời khen để khiến bạn an tâm hơn.
 
-Họ không nhìn vào mắt bạn
+**Họ không nhìn vào mắt bạn**
 
 Người ấy dạo gần đây không còn giao tiếp bằng mắt với bạn? Thời gian họ nhìn vào điện thoại của mình hay tivi còn nhiều hơn là trò chuyện, tâm sự cùng bạn.
 
 Còn khi bạn tra hỏi, người ấy sẽ nhìn lung tung chứ không còn dám nhìn thẳng vào mắt bạn như trước. Theo các nhà tâm lý học, việc đối phương từ chối giao tiếp bằng mắt cho thấy họ đang âm mưu hoặc che giấu điều gì đó.
 
-Tránh ở một mình với bạn
+**Tránh ở một mình với bạn**
 
 Nếu đối phương luôn có ý tránh khi ở riêng với bạn, nó là dấu hiệu cho thấy anh ta đang có một mối quan hệ ngoài luồng khác. Anh ta sợ phút giây đối diện riêng với bạn vì khi đó có thể bị bại lộ những cảm xúc và nói “hớ” điều gì đó.
 
-Lịch trình thay đổi, không cố định
+**Lịch trình thay đổi, không cố định**
 
 Bình thường người ấy luôn có giờ giấc chuẩn, thế nhưng gần đây giờ giấc và thói quen sinh hoạt có nhiều thay đổi. Nhưng bây giờ bạn không thể biết được người ấy đang làm gì, ở đâu, với ai.
 

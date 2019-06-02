@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Hãy Vì Yêu Mà Cưới, đến với nhau khi trái tim thấy cần
+title: Hãy Vì Yêu Mà Cưới và đến với nhau khi trái tim thấy cần
 author: [doanbinh]
 ---
 
@@ -13,7 +13,7 @@ Tuy nhiên, có những lúc chuyện kết hôn dường như là chuyện khô
 
 Thế là từ bao giờ chuyện cưới xin của cá nhân một người lại trở thành mối bận tâm ghê gớm lắm của rất nhiều người khác. Từ ba mẹ đến họ hàng thân sơ, bà con lối xóm. Không chỉ từ người thân quen, mà còn là người hơi hơi biết một chút… cũng đưa ra góp ý về sự lựa chọn.
 
-Chọn người-mình-yêu!
+**Chọn người mình yêu!**
 
 Đó chính là ý kiến của Hamlet Trương trong quyển Ai rồi cũng khác: “Nhưng thỉnh thoảng, ta cũng nên mường tượng trước cảnh mình sẽ thức dậy bên cạnh một người mà mình không có gì để đam mê.
 
