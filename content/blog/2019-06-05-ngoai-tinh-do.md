@@ -18,31 +18,31 @@ Dưới đây là một số giả thuyết:
 
 Dưới đây, chúng ta thử nhìn nhận một số lý do thực sự khiến không ít nam giới vẫn đi tìm phụ nữ khác khi có vợ đẹp:
 
-Người thứ ba đã chờ sẵn
+**Người thứ ba đã chờ sẵn**
 
 Đây là câu trả lời đơn giản nhất. Khi một người đàn ông đang tìm kiếm cơ hội ngoại tình thì chuyện qua lại với một cô nàng xinh đẹp như người mẫu hay có dung nhan tầm thường chẳng thành vấn đề. Chắc chắn, anh ta thích các cô “người mẫu” hơn nhưng việc tiếp cận họ không đơn giản. Và thường là, nếu họ đã định ngoại tình, họ sẽ tìm người cũng đang sẵn sàng cho việc đó. Dù cô bồ kia có dung mạo thế nào, cô ta muốn anh ta và khiến anh ta cảm thấy thoải mái. Người đàn ông sẽ không ngồi đó để cân nhắc xem vợ mình hơn hay cô gái sắp trở thành bồ anh ta hơn. Anh ta đang cần “đổi gió″ và có người sẵn sàng đáp ứng, vậy là đủ.
 
 Người vợ nên làm gì: Chẳng gì cả. Anh ta đã định ngoại tình, anh ta sẽ làm vậy. Vấn đề là tự hỏi lại tại sao bạn chọn người đàn ông này làm chồng.
 
-Vợ đẹp đỏng đảnh, khó chiều
+**Vợ đẹp đỏng đảnh, khó chiều**
 
 Nếu bạn đỏng đảnh và chỉ yêu bản thân, chẳng mấy chốc người đàn ông sẽ chán ngấy khi thấy bạn chỉ chăm chăm vào việc làm đỏm, ăn diện. Phụ nữ làm dáng quá mức thường xuất phát sâu xa từ sự bất an bên trong, và cả hai kết hợp lại khiến người đàn ông dễ chán. Đàn ông khá đơn giản và hầu hết mọi lúc họ đều muốn những thứ đơn giản. Một cô gái không quá bóng bẩy và không dành quá nhiều thời giờ trước gương sẽ có nhiều thời gian hơn cho người đàn ông của mình.
 
 Người vợ nên làm gì: Dừng lại. Có nhiều thứ còn đáng quan tâm hơn là có mái tóc hoàn hảo hay bờ môi được tô son đẹp tuyệt. Hãy để chàng nghịch mái tóc của bạn, hôn lên đôi môi không tô son và đừng nhìn vào gương cứ 45 giây một lần. Hãy học cách cảm thấy thoải mái khi không có vẻ ngoài hoàn thiện 100% và anh ấy sẽ trân trọng điều đó.
 
-Vợ đẹp nhưng xấu tính
+**Vợ đẹp nhưng xấu tính**
 
 Nếu ngoại hình bạn ở mức 7 thì bạn dễ dàng được chấm điểm 10 nếu có tính cách dễ mến. Nhưng nếu bạn đẹp điểm 10 nhưng hay ca thán rên rỉ thì có thể chỉ được chấm điểm 6. Người đàn ông sẽ muốn ở bên một người khiến anh ta cảm thấy vui vẻ hơn là một người cau có, xấu tính dù vẻ ngoài nóng bỏng.
 
 Vợ nên làm gì: Cau có, hay nổi giận, lúc nào cũng muốn gây sự chắc chắn là chẳng hấp dẫn chút nào. Khi đó, gương mặt đẹp của bạn có thể sẽ trở thành xấu xí ngay lập tức mỗi lần mở miệng. Hãy nói ít lại một chút nếu không có điều gì tốt đẹp để nói và hành động tử tế hơn với mọi người xung quanh. Nói lời “cảm ơn” và mỉm cười nhiều hơn nữa, không chỉ với chồng và với cả những người khác.
 
-Chồng muốn thứ mới lạ khi vợ đẹp nhưng nhàm chán
+**Chồng muốn thứ mới lạ khi vợ đẹp nhưng nhàm chán**
 
 Hẹn hò với một cô nàng nóng bỏng luôn là một niềm phấn khích với cánh đàn ông ngay lúc đó. Anh ta hãnh diện muốn khoe vợ đẹp với bạn bè và cả thế giới. Nhưng điều gì xảy ra sau đó, khi vào cuối ngày, bạn chỉ như một bình hoa di động? Hầu hết đàn ông đều cần thêm kích thích. Đúng, đàn ông yêu bằng mắt, và vì thế phim tươi mát luôn hấp dẫn họ. Nhưng có mấy anh xem một bộ phim đen đến lần thứ hai? Họ luôn muốn những thứ mới lạ. Món ăn dù có ngon nhưng thưởng thức mãi cũng chán. Hơn nữa, cái đẹp tàn phai nhanh hơn bạn tưởng. Nếu bạn chẳng đáng yêu, vui vẻ, thú vị – anh ta sẽ nhanh chán thôi.
 
 Người vợ nên làm gì: Chỉ dựa vào vẻ đẹp bên ngoài để giữ tình cảm giống như bạn phơi hết các quân bài của mình ra và kỳ vọng sẽ thắng trong lượt chơi. Hãy đọc, học những điều mới, có sở thích riêng, đi du lịch, tình nguyện – làm những việc khác ngoài việc chỉ làm đẹp và để người khác ngắm.
 
-Người đàn ông muốn bỏ vợ
+**Người đàn ông muốn bỏ vợ**
 
 Đàn ông có người rất hèn nhát. Đôi khi, họ muốn bỏ bạn mà chẳng biết làm thế nào. Hầu hết nam giới ngoại tình vì ham muốn thể xác hơn là cảm xúc nhưng trong trường hợp này, việc anh ta tìm kiếm một người phụ nữ khác có khi chỉ là một trò qua mắt. Đôi khi anh ta dan díu với người khác chỉ vì để dễ bỏ bạn hơn.
 

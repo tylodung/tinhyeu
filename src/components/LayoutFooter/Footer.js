@@ -61,7 +61,7 @@ const Footer = ({layoutHasSidebar = false}) => (
           }}>
           <FooterNav layoutHasSidebar={layoutHasSidebar}>
             <MetaTitle onDark={true}>Tài trợ & Công Đức</MetaTitle>
-            <FooterLink to="/blog/">Lời Phật Dạy</FooterLink>
+            <FooterLink to="/blog/">Tận Đáy Lòng</FooterLink>
             <ExternalFooterLink
               href="http://bakadono.com"
               target="_blank"
@@ -72,13 +72,13 @@ const Footer = ({layoutHasSidebar = false}) => (
               href="http://thaoam.com"
               target="_blank"
               rel="noopener">
-              Thảo Am
+              Đoàn Bình
             </ExternalFooterLink>
             <ExternalFooterLink
               href="http://trasuaphuquoc.com"
               target="_blank"
               rel="noopener">
-              Ngôi Chùa Xưa
+              Câu Chuyện Tình Yêu
             </ExternalFooterLink>
           </FooterNav>
         </div>

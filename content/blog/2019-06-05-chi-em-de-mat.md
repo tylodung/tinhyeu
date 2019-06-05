@@ -12,11 +12,11 @@ Vào năm 2015, trang web ngoại tình Ashley Madison đã bị lộ dữ liệ
 
 Đàn ông tìm đến phương thức ngoại tình qua mạng do nhiều nguyên nhân. Phần lớn là do không hài lòng với cuộc sống hôn nhân hiện tại, không cảm thấy hạnh phúc với vợ hoặc không chia sẻ được với người bạn đời của mình. Khi cảm thấy xa cách với bạn đời, họ lại nghĩ rằng hai người không còn thân mật với nhau nữa, họ đổ lỗi cho bạn đời hoặc hôn nhân mà không nhận ra rằng chính khả năng bộc lộ cảm xúc của họ mới là điều khiến họ cảm thấy bất hạnh.
 
-Trốn chạy những bà vợ lắm chiêu
+**Trốn chạy những bà vợ lắm chiêu**
 
 Nhiều khi những bà vợ quá tai quái, ghê gớm cũng khiến đàn ông cảm thấy chán và sợ hãi. Hoặc việc ghen tuông vô độ của vợ cũng là một áp lực của đàn ông. Thế nhưng họ không dám trực tiếp ngoại tình mà chỉ có thể lên mạng tìm đối tượng để “trút bầu tâm sự”.
 
-Đàn ông thích tìm sự mới mẻ và mong giữ lại những điều tốt đẹp đã có
+**Đàn ông thích tìm sự mới mẻ và mong giữ lại những điều tốt đẹp đã có**
 
 Chính nhu cầu tìm kiếm cái mới và mong tìm lại những cái cũ từng có đã khiến họ “chìm đắm” vào ảo tưởng, nơi những tình cảm không thể tỏ bày của họ được giải phóng. Sự mới mẻ mà họ tìm kiếm chính là những cảm xúc tươi mới, nồng nhiệt và tự do của tình yêu ngày xa xưa. Mặt khác, thế giới ảo luôn khiến con người dễ tưởng tượng, dễ mộng đẹp về nhau. Khi vào cuộc, đàn ông luôn thấy phấn khởi bởi những thú vị vàbí ẩnphía trước. Họ sẽ như những chú sư tử đực, càng dấn thân càng thích thú.
 

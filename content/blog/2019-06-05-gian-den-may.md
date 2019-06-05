@@ -8,7 +8,7 @@ author: [doanbinh]
 
 Lòng tự trọng của đàn ông được ví như viên kim cương mà người vợ khôn ngoan phải biết trân trọng mọi nơi, mọi lúc. Vì thế, hạnh phúc trong tầm tay, đừng dại mà nhấn chìm “trong một nốt nhạc” chỉ vì những câu nói vô tâm này, các nàng nhé.
 
-“Anh nhìn chồng người ta mà xem”…
+**“Anh nhìn chồng người ta mà xem”…**
 
 Không ít phụ nữ tưởng việc lấy người đàn ông khác ra làm “tấm gương” sẽ có tác động tích cực với chồng, là cách “kích động” để chồng mình tiến bộ hơn. Nhưng đó là một ứng xử sai lầm.
 
@@ -16,7 +16,7 @@ Không ít phụ nữ tưởng việc lấy người đàn ông khác ra làm �
 
 Theo các chuyên gia tâm lý, so sánh chồng với người đàn ông khác, về tài chính hay sức khỏe đều khiến người chồng rơi vào cảm giác bị coi thường và rất dễ mất bình tĩnh. “Chồng bạn em bằng tuổi anh mà nhà cửa, ô tô đề huề. Còn anh, nhìn xem…Tôi chưa nói hết câu, anh đã cao giọng: ‘Nếu thế thì em sang nhà chồng bạn em mà ở…’ rồi bỏ đi”- Mỹ Thanh- một giáo viên dạy tiếng Anh- kể.
 
-“Giá em không lấy anh…”
+**“Giá em không lấy anh…”**
 
 Trong những lúc khó khăn, hoặc khi hai vợ chồng đang có mối bất hòa nho nhỏ, không ít người phụ nữ giận dỗi buột miệng: “Giá như em không lấy người như anh thì đâu phải chịu khổ thế này”.
 
@@ -24,7 +24,7 @@ Thậm chí có người còn muốn khẳng định giá trị bản thân, coi
 
 Dù những lời này chỉ vô tình thốt ra trong lúc giận dữ thì bạn cũng đã làm cho anh ấy nhận thấy mình chẳng có chút ý nghĩa gì trong cuộc đời của bạn. Vì thế, các chuyên gia tâm lý khuyên lúc nóng nảy, cách tốt nhất cho phù nữ là kiềm chế hoặc tránh xa, chứ đừng bao giờ nói ra những lời có thể khiến bạn phải ân hận cả đời.
 
-“Việc ấy có đáng gì mà anh cứ làm lớn chuyện…”
+**“Việc ấy có đáng gì mà anh cứ làm lớn chuyện…”**
 
 Trong khi chồng bạn tâm sự những điều mà anh ấy cho là quan trọng hoặc hấp dẫn thì bạn đáp lại bằng thái độ thờ ơ hết sức. Chồng bạn có thể nghĩ bạn chẳng quan tâm gì đến những điều anh ấy quan tâm, hoặc nguy hiểm hơn chồng bạn có thể cho rằng bạn đang coi thường những nhìn nhận, đánh giá của anh ấy nên “không chấp”.
 
