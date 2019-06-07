@@ -5,7 +5,11 @@ title: Những điều chinh phục đôi tai của đàn ông
 author: [doanbinh]
 ---
 
-Có chị lấy lý do bận bịu không để ý đến việc chinh phục cái dạ dày của chồng nữa. Có chị để cho anh ấy ”muốn mặc gì thì mặc”, áo sơ mi nhăn nhúm, tất thì tiếng là có đến cả chục đôi đấy mà lúc đi làm cần đến vẫn cứ phải tìm nháo nhào. Lại có chị để cho đôi tai của chồng mình đói nghe những lời nói ngọt mặc dù biết mười mươi rằng  dường như đôi tai đàn ông sinh ra chỉ là để đón nhận những âm thanh nhẹ nhàng không chói gắt mà thôi.
+Có chị lấy lý do bận bịu không để ý đến việc chinh phục cái dạ dày của chồng nữa. Có chị để cho anh ấy ”muốn mặc gì thì mặc”, áo sơ mi nhăn nhúm, tất thì tiếng là có đến cả chục đôi đấy mà lúc đi làm cần đến vẫn cứ phải tìm nháo nhào. 
+
+Lại có chị để cho đôi tai của chồng mình đói nghe những lời nói ngọt mặc dù biết mười mươi rằng  dường như đôi tai đàn ông sinh ra chỉ là để đón nhận những âm thanh nhẹ nhàng không chói gắt mà thôi.
+
+![ten buc hinh](http://a9.vietbao.vn/images/vn999/530/2017/11/20171101-nhung-dieu-chinh-phuc-d-244-i-tai-cua-d-224-n-244-ng-1.jpg "ten buc hinh")
 
 Những điều mà bất cứ người đàn ông nào cũng muốn nghe được liệt kê dưới đây thực ra không phải là những lời quá khó để thốt ra. Chúng cũng không phải là những giả dối đãi bôi khiến chính người nói thấy mình sao gượng gạo, không thật lòng. Ngược lại, nếu tình yêu và sự trân trọng nhau vẫn còn đầy ắp, thì những lời ngọt ngào nhưng rất đỗi giản đơn này đều xuất phát từ trái tim chúng ta mà thôi. Vấn đề là chúng ta đã vô tình cất chúng đi ở một nơi nào đó. Vậy thì tại sao chúng ta không lấy chúng ra, thổi vào chúng hơi ấm tình yêu để tặng chàng?
 
