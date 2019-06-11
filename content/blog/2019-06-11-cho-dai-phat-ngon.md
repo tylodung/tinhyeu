@@ -6,6 +6,8 @@ author: [doanbinh]
 ---
 Dưới đây là những câu nói nên tránh không đề cập tới nếu bạn không muốn một ngày nào đó hôn nhân của mình tan vỡ.
 
+![ten buc hinh](https://t.a4vn.com/2017/11/8/phu-nu-hay-nho-khi-dan-ong-da-muon-bo-vo-thi-chang-ai-co-the-niu-eb9.jpg "ten buc hinh")
+
 **“Anh béo quá rồi đấy”**
 
 Phái mạnh luôn tỏ ra không quan tâm tới vấn đề cân nặng, điều đó không có nghĩa là bạn có thể nói thả ga về việc giảm cân của anh ấy. Thực tế, anh ấy vẫn cảm thấy bị tổn thương và trở nên tự ti khi nghe người bạn đời của mình phàn nàn về vấn đề hình thể.
