@@ -8,6 +8,8 @@ author: [doanbinh]
 
 Dưới đây là những biểu hiện khi một người đàn ông yêu thật lòng dành cho người phụ nữ của anh ấy:
 
+![ten buc hinh](https://anh.eva.vn//upload/2-2016/images/2016-06-15/8-dieu-dan-ong-chi-lam-voi-nguoi-phu-nu-ho-yeu-nguoidanongyeuthatlong2-1465960438-width640height480.jpg "ten buc hinh")
+
 **Lắng nghe**
 
 Bạn đã từng nghĩ rằng, đôi khi đàn ông cư xử như trẻ con, bạn không hoàn toàn sai. Hầu hết đàn ông đều tập trung vào thứ mà họ đam mê. Nếu họ yêu bạn, giọng nói của bạn như một âm thanh tuyệt vời truyền đến đôi tai bạn và anh ấy thích thú với những lời bạn nói ra.

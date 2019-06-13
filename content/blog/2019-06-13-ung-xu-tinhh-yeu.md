@@ -5,7 +5,11 @@ title: Cách ứng xử trong tình yêu
 author: [doanbinh]
 ---
 
-Đôi khi bạn không tránh khỏi cảm giác ghen tị khi nhìn vào tình yêu của người khác. Bạn thấy họ hạnh phúc, tình yêu thật đẹp, người yêu thật tuyệt vời… trong khi tình yêu của bạn lại gặp hết rắc rối này đến phức tạp khác. Thực tế, họ cũng không tránh khỏi những điều mà bạn từng gặp, chỉ có điều họ biết cách ứng xử trong tình yêu để được hạnh phúc hơn mỗi ngày.
+Đôi khi bạn không tránh khỏi cảm giác ghen tị khi nhìn vào tình yêu của người khác. Bạn thấy họ hạnh phúc, tình yêu thật đẹp, người yêu thật tuyệt vời… trong khi tình yêu của bạn lại gặp hết rắc rối này đến phức tạp khác. 
+
+Thực tế, họ cũng không tránh khỏi những điều mà bạn từng gặp, chỉ có điều họ biết cách ứng xử trong tình yêu để được hạnh phúc hơn mỗi ngày.
+
+![ten buc hinh](http://www.elle.vn/wp-content/uploads/2016/02/28/Ca%CC%81c-ca%CC%81ch-u%CC%9B%CC%81ng-xu%CC%9B%CC%89-trong-ti%CC%80nh-ye%CC%82u-ma%CC%80-ba%CC%A3n-ne%CC%82n-bie%CC%82%CC%81t.jpg "ten buc hinh")
 
 **1. Thể hiện tình yêu với người ấy mỗi ngày**
 
