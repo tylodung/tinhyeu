@@ -9,13 +9,16 @@ Nếu người đàn ông có thể lên giường với cả những phụ nữ
 
 Nhưng có lẽ đối với đàn bà khi đã ngoại tình thì chẳng muốn về nhà nữa, họ sẵn sàng vứt bỏ tất cả nhà cửa, chồng con để đi theo tiếng gọi của trái tim…
 
+![ten buc hinh](https://image.vtcns.com/files/phamquy/2019/04/20/ngoai-tinh-0758506.jpg "ten buc hinh")
+
+
 Khi yêu, đàn bà thường si mê và điên dại. Họ có thể hết lòng, thậm chí hi sinh vì người đàn ông mà họ yêu thương. Thế nên, không ít đàn bà chấp nhận làm mẹ đơn thân vì trót yêu đàn ông có vợ hay bị đàn ông lừa dối.
 
 Một người phụ nữ luôn luôn cần có được tình yêu thương của người đàn ông, nhất là người đàn ông bên cạnh họ. Vì người đó mà họ đã đánh đổi tuổi trẻ, dành hết tâm huyết nhưng lại không được đền đáp, vậy chuyện họ ngoại tình cũng chỉ là bước đường cùng.
 
 Nhưng có một điều chắc chắn rằng, phụ nữ ngoại tình thường vì yêu, vì cảm mến. Nếu họ không thật lòng có tình cảm, họ sẽ không đến với người đàn ông khác vì những nhu cầu sinh lý như đàn ông.
 
-Mục tiêu khi ngoại tình của phụ nữ là điều gì?
+**Mục tiêu khi ngoại tình của phụ nữ là điều gì?**
 
 Mục tiêu của phụ nữ khi ngoại tình đôi khi không phải xuất phát từ tình dục. Họ thường thiên về cảm xúc, tình cảm hơn là những ham muốn xác thịt. Vì vậy, phụ nữ đã ngoại tình cũng có nghĩa họ không còn thuộc về gia đình nữa.
 
