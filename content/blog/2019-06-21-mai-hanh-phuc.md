@@ -7,6 +7,9 @@ author: [doanbinh]
 ---
 Dưới đây là những điều vợ chồng nên làm ngay ngày đầu năm để cả năm hạnh phúc, tình cảm vợ chồng thăng hoa.
 
+![ten buc hinh](https://i.a4vn.com/2017/1/29/lam-ngay-dieu-nay-dau-nam-de-vo-chong-mai-mai-hanh-phuc-ca-nam-s-ecc16a.jpg "ten buc hinh")
+
+
 **Nói những điều tích cực**
 
 Một lời khen chân thành hay những điều tốt đẹp về công việc, đóng góp của chồng trong gia đình… sẽ thể hiện được sự tôn trọng của bạn và khiến anh xã cảm thấy mình được yêu. Cách này sẽ khiến người đàn ông muốn cố gắng hơn nữa để giữ được hình ảnh đẹp trong mắt vợ.
