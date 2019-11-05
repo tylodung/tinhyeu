@@ -99,7 +99,7 @@ const MarkdownPage = ({
                   <div css={{marginTop: 80}}>
                     <a
                       css={sharedStyles.articleLayout.editLink}
-                      href={`https://lovelili.info/`}>
+                      href={`https://ringtonemobiles.net/`}>
                       Quay về Trang Chủ
                     </a>
                   </div>

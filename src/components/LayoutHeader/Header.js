@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://lovelili.info/"
+            href="https://ringtonemobiles.net/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

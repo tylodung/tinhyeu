@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Hữu Tình',
-    siteUrl: 'https://lovelili.info/',
+    siteUrl: 'https://ringtonemobiles.net/',
     rssFeedTitle: 'tinhthuong',
     rssFeedDescription: 'Đoàn Bình và Nhân Gian Hữu Tình',
   },
