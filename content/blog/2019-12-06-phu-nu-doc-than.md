@@ -20,7 +20,7 @@ Vì thế, nếu bạn đang quá chán ngán với công việc hiện tại, h
 
 Dù bạn có khó khăn, có cực khổ như thế nào. Rồi bạn cũng sẽ vượt qua, vì phụ nữ hạnh phúc nhất là được là chính mình.
 
-**4.** Hãy luôn là người phụ nữ khiến đàn ông khao khát. Với đàn ông, cái gì càng khó lòng có được họ lại càng trân trọng. Thế nhưng sau đó, hãy duy trì phong độ nếu không muốn sự nhàm chán khiến họ bỏ rơi bạn
+**4.** Hãy luôn là người phụ nữ khiến đàn ông khao khát. Với đàn ông, cái gì càng khó lòng có được họ lại càng trân trọng. Thế nhưng sau đó, hãy duy trì phong độ nếu không muốn sự nhàm chán khiến họ bỏ rơi bạn.
 
 **5.** Đừng dại dột bắt đàn ông chọn lựa giữa bạn và mẹ của họ, câu trả lời của họ chỉ khiến bạn đau lòng mà thôi.
 
