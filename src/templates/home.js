@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Tấm Lòng Son
+                Bí Kíp ringtone
               </h1>
               <p
                 css={{

@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Tận Đáy Lòng
+            Bí Kíp ringtone
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Tình Cảm và Kỷ Niệm"
+            title="Tình Cảm và Hồi Ức"
             to="/blog/"
           />
         </nav>
