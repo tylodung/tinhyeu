@@ -29,7 +29,7 @@ const Tutorial = ({data, location}) => {
       location={location}
       markdownRemark={data.markdownRemark}
       sectionList={sectionListTutorial}
-      titlePostfix=" - Đoàn Bình & Ngôi Chùa Xưa"
+      titlePostfix=" - Đoàn Bình & Tình Yêu"
     />
   );
 };

@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Bí Kíp ringtone
+                Kinh nghiệm tình yêu
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Hỡi Thế Gian... Tình Là Chi
+                Tình yêu và cuộc sống..
               </p>
               <Flex
                 valign="center"

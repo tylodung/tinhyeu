@@ -18,7 +18,7 @@ const Community = ({data, location}) => (
     location={location}
     markdownRemark={data.markdownRemark}
     sectionList={sectionListCommunity}
-    titlePostfix=" - Đoàn Bình & Ngôi Chùa Xưa"
+    titlePostfix=" - Đoàn Bình & Tình Yêu"
   />
 );
 

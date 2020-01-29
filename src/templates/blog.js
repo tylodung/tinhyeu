@@ -35,7 +35,7 @@ const Blog = ({data, location}) => (
     ogDescription={data.markdownRemark.excerpt}
     markdownRemark={data.markdownRemark}
     sectionList={toSectionList(data.allMarkdownRemark)}
-    titlePostfix=" - Đoàn Bình & Ngôi Chùa Xưa"
+    titlePostfix=" - Đoàn Bình & Tình Yêu"
   />
 );
 
