@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Bí Kíp ringtone
+            Lều Tranh
           </span>
         </Link>
 
@@ -170,7 +170,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="http://bakadono.com/"
+            href="/"
             target="_blank"
             rel="noopener">
             Bakadono

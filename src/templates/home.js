@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Kinh nghiệm tình yêu
+                Lều Tranh
               </h1>
               <p
                 css={{
