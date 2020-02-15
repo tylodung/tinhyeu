@@ -7,14 +7,14 @@ id: home
 <section class="light home-section">
   <div class="marketing-row">
     <div class="marketing-col">
-      <h3>Tâm Từ Bi</h3>
+      <h3>Lòng Yêu Thương</h3>
       <p>“Phải cố gắng học rộng nghe nhiều, phải biết bổn tâm mình, phải hiểu rõ đạo lý của chư Phật, phải hòa mình vào thế gian để cứu giúp người và vật, không phân biệt ta và người, nghĩ thắng đến quả vị Bồ đề.”</p>
       <p>Nguyện đem công đức này
 Hướng về chúng sanh khắp pháp giới
 Đồng sanh cõi Cực Lạc..</p>
     </div>
     <div class="marketing-col">
-      <h3>Chân thiện nhân</h3>
+      <h3>Định Luật Yêu</h3>
       <p>Có nhiều quy luật khác nhau trong thế giới và trong vũ trụ này. Một người có khả năng tuân theo cái gọi là luật của một quốc gia trên bề mặt nhưng lại chống lại những luật cao hơn, những quy luật của tự nhiên mà con người không thể thấy, bao gồm Chân-Thiện-Nhẫn, là luật cao nhất trong vũ trụ này. Đại Pháp bất biến bất động cho dù con người có thay đổi thế nào..</p>
     </div>
     <div class="marketing-col">

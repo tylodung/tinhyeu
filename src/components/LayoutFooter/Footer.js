@@ -119,7 +119,7 @@ const Footer = ({layoutHasSidebar = false}) => (
               color: colors.subtleOnDark,
               paddingTop: 15,
             }}>
-            Copyright © 2017 - 2019 Bakadono.
+            Copyright © 2017 - 2020 Bakadono.
           </p>
         </section>
       </div>
