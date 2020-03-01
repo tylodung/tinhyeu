@@ -151,7 +151,7 @@ const Header = ({location}) => (
             href="https://ringtonemobiles.net/"
             target="_blank"
             rel="noopener">
-            Trang chủ
+            Bakadono {version}
           </a>
           <a
             css={{
@@ -173,7 +173,7 @@ const Header = ({location}) => (
             href="/"
             target="_blank"
             rel="noopener">
-            Liên hệ
+            Bakadono
             <ExternalLinkSvg
               cssProps={{
                 marginLeft: 5,
